@@ -21,7 +21,7 @@ Simplicity
 • Non-disruptive upgrades and capacity expansions 
 
 Industry Recognition 
-• A Gartner® Magic Quadrant™ Leader for storage nine times in a row.
+• A Gartner Magic Quadrant Leader for storage nine times in a row.
 • Certified Net Promoter Score in the top 1% of B2B companies by Medallia
 
 ## Overall Description
@@ -31,7 +31,7 @@ Accelerate mission-critical applications with power and efficiency
 Designed to be as easy to use as it is powerful, Pure Storage® 
 FlashArray™ provides unified block and file storage with 
 enterprise performance, reliability, and availability to power your 
-critical business services. FlashArray//X™ arrays runs everything 
+critical business services. FlashArray//X arrays runs everything 
 from massive databases to modern cloud-native apps, with 
 purpose-built solutions that scale from large-scale enterprise 
 deployments to satellite offices.
@@ -49,7 +49,7 @@ and cooling costs to help you meet corporate green data center standards.
 
 ## Next-generation Performance at Cloud-scale
 
-With Pure Fusion™ and FlashArray, Pure Storage delivers a new infinite scale-
+With Pure Fusion and FlashArray, Pure Storage delivers a new infinite scale-
 out storage model that unifies arrays and optimizes storage pools on the fly, 
 bringing the simplicity of the cloud operating model anywhere, with on-demand 
 consumption and back-end provisioning. End users can rapidly consume 
@@ -90,8 +90,8 @@ including offloading the host CPU.
 ## Purity: The Software-defined Heart of FlashArray 
 
 Purity for FlashArray delivers rich, enterprise-level data services; DirectFlash global flash management; and Evergreen 
-improvements with every release. Features such as ActiveCluster™ for business continuity, ActiveDR™ for disaster recovery, 
-ActiveWorkload for workload migration, VMware Virtual Volumes (vVols), NVMe-oF, Snap to NFS, Purity CloudSnap™, and 
+improvements with every release. Features such as ActiveCluster for business continuity, ActiveDR for disaster recovery, 
+ActiveWorkload for workload migration, VMware Virtual Volumes (vVols), NVMe-oF, Snap to NFS, Purity CloudSnap, and 
 SafeMode™ are all examples of new features provided over time with non-disruptive, no-additional-cost Purity upgrades. All 
 Purity storage services, APIs, and advanced data services are built-in and included with every array.
 
