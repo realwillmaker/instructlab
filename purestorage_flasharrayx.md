@@ -182,7 +182,7 @@ FlashArray //X70 Up to 2286TiB / 2078.9TiB effective capacity, Up to 622TB / 544
 
 FlashArray //X50 Up to 663TB / 602.9TiB effective capacity, Up to 185TB / 171TiB raw capacity, 3U; 1016–1276 watts (nominal–peak), 200-240 volts (input voltage range), 95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”
 
-FlashArray //X20 Up to 314TB / 285.4TiB effective capacity, Up to 94TB / 88TiB raw capacity, 3U; 945–1196 watts (nominal–peak), 200-240 volts (input voltage range), 95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
+FlashArray //X20 Up to 314TB / 285.4TiB effective capacity, Up to 94TB / 88TiB raw capacity, 3U; 945–1196 watts (nominal–peak), 200-240 volts (input voltage range), 95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”
 
 Direct Flash Shelf Up to 1.9PB effective capacity, Up to 512TB / 448.2TiB raw capacity, 3U; 460–500 watts (nominal–peak), 200-240 volts (input voltage range), 87.7lbs (39.8kg) fully loaded; 5.12” x 18.94” x 29.72”
 
