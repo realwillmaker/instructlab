@@ -1,27 +1,41 @@
 ## Pure Storage FlashArray//X 
 
 Performance
+
 • Powered for performance tiers with Pure Fusion
+
 • 250μs to 1ms latency
+
 • NVMe and NVMe-oF (Fibre Channel, RoCE, TCP)
+
 • SMB and NFS protocol support 
 
 Efficient
+
 • Industry-leading 5:1 data reduction average, 10:1 total efficiency
+
 • Up to 3.3PB effective capacity
 
 Highly Available
+
 • Proven 99.9999% availability
+
 • Always-on, always maintains IOPs and bandwidth to meet SLAs 
+
 • Built-in business continuity and disaster recovery
 
 Simplicity 
+
 • AI-driven management with Pure1® and predictive support
+
 • REST API for orchestration
+
 • Non-disruptive upgrades and capacity expansions 
 
 Industry Recognition 
+
 • A Gartner Magic Quadrant Leader for storage nine times in a row.
+
 • Certified Net Promoter Score in the top 1% of B2B companies by Medallia
 
 ## Overall Description
@@ -156,62 +170,28 @@ ensures that you start off knowing that you’ll have the effective capacity you
 your storage stays modern and dense as you expand, without having to re-buy terabytes you already own. Pure uniquely 
 offers all our core solutions either as products (CAPEX) or as services (OPEX2) via the Evergreen portfolio.
 
-<table>
-<caption>Technical Specifications</caption>
-<thead>
-<tr class="header">
-<th scope="col" style="width:55px;"><p>Model</p></th>
-<th scope="col" style="text-align:center;"><p>Capacity</p></th>
-<th scope="col" style="text-align:center;"><p>Phyiscal</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td scope="row" style="text-align:center"><p>FlashArray //X90</p></td>
-<td><p>Up to 3.3PB / 2.9PiB effective capacity</p>
-<p>Up to 878TB / 768.3TiB raw capacity</p></td>
-<td><p>3-6U; 1191–1530 watts (nominal–peak)
-200-240 volts (input voltage range)
-97lbs. (44kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
-</tr>
-<tr class="even">
-<td scope="row" style="text-align:center"><p>FlashArray //X70</p></td>
-<td><p>Up to 2286TiB / 2078.9TiB effective capacity</p>
-<p>Up to 622TB / 544.2TiB raw capacity</p></td>
-<td><p>3U; 1068–1424 watts (nominal–peak)
-200-240 volts (input voltage range)
-97lbs. (44.0kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
-</tr>
-<tr class="odd">
-<td scope="row" style="text-align:center"><p>FlashArray //X50</p></td>
-<td><p>Up to 663TB / 602.9TiB effective capacity</p>
-<p>Up to 185TB / 171TiB raw capacity</p></td>
-<td><p>3U; 1016–1276 watts (nominal–peak)
-200-240 volts (input voltage range)
-95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
-</tr>
-<tr class="even">
-<td scope="row" style="text-align:center"><p>FlashArray //X20</p></td>
-<td><p>Up to 314TB / 285.4TiB effective capacity</p>
-<p>Up to 94TB / 88TiB raw capacity</p></td>
-<td><p>3U; 945–1196 watts (nominal–peak)
-200-240 volts (input voltage range)
-95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
-</tr>
-<tr class="odd">
-<td scope="row" style="text-align:center"><p>Direct Flash Shelf</p></td>
-<td><p>Up to 1.9PB effective capacity</p>
-<p>Up to 512TB / 448.2TiB raw capacity</p></td>
-<td><p>3U; 460–500 watts (nominal–peak)
-200-240 volts (input voltage range)
-87.7lbs (39.8kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
-</tr>
-</tbody>
-</table>
+## Models and Technical Specifications
+
+There are 5 models available for the Pure Storage FlashArray //X product line: //X90, //X70, //X50, //X20, and a Direct Flash Shelf.
+
+Additional Details on Each Model are as follows:
+
+FlashArray //X90 Up to 3.3PB / 2.9PiB effective capacity, Up to 878TB / 768.3TiB raw capacity, 3-6U; 1191–1530 watts (nominal–peak), 200-240 volts (input voltage range), 97lbs. (44kg) fully loaded; 5.12” x 18.94” x 29.72”
+
+FlashArray //X70 Up to 2286TiB / 2078.9TiB effective capacity, Up to 622TB / 544.2TiB raw capacity, 3U; 1068–1424 watts (nominal–peak), 200-240 volts (input voltage range), 97lbs. (44.0kg) fully loaded; 5.12” x 18.94” x 29.72”
+
+FlashArray //X50 Up to 663TB / 602.9TiB effective capacity, Up to 185TB / 171TiB raw capacity, 3U; 1016–1276 watts (nominal–peak), 200-240 volts (input voltage range), 95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”
+
+FlashArray //X20 Up to 314TB / 285.4TiB effective capacity, Up to 94TB / 88TiB raw capacity, 3U; 945–1196 watts (nominal–peak), 200-240 volts (input voltage range), 95lbs. (43.1kg) fully loaded; 5.12” x 18.94” x 29.72”</p></td>
+
+Direct Flash Shelf Up to 1.9PB effective capacity, Up to 512TB / 448.2TiB raw capacity, 3U; 460–500 watts (nominal–peak), 200-240 volts (input voltage range), 87.7lbs (39.8kg) fully loaded; 5.12” x 18.94” x 29.72”
+
 
 ## FlashArray //X Connectivity
 
-Onboard Ports (per controller)
+Pure Storage FlashArray //X has a number of connectivity options such as 1/10/25/40Gb Ethernet, 25/50Gb NVMe/RoCE or TCP, 16/32/64Gb Fiber channel.  More specific information is below:
+
+Onboard Ports (per controller):
 
 • 2 x 1/10/25Gb Ethernet
 
@@ -220,16 +200,22 @@ Onboard Ports (per controller)
 • 2 x 1Gb Management Ports
 
 
-Host I/O Cards (3 slots/controller)
+Host I/O Cards (3 slots/controller):
 
 • 2-port 10GBase-T Ethernet
 
-• 2-port 1/10/25Gb Ethernet
+• 2-port 10/25Gb Ethernet, NVMe/Roce, NVMe/TCP
 
-• 2-port 40Gb Ethernet
+• 2-port 100Gb Ethernet, NVMe/Roce, NVMe/TCP
 
-• 2-port 25/50Gb NVMe/RoCE, NVMe/TCP
+• 4-Port 10/25G Ethernet, NVMe/TCP
 
-• 2-port 16/32Gb FCP, NVMe/FC
+• 2-port 40/100Gb NVMe/RoCE, NVMe/TCP
 
-• 4-port 16/32Gb FCP, NVMe/FC
+• 2-port 16/32Gb FCP, NVMe/FC (X20 and X50 Models)
+
+• 4-port 16/32Gb FCP, NVMe/FC (X20 and X50 Models)
+
+• 2-port 32Gb FCP, 64G capable, NVMe/FC (X70 and X90 Models)
+
+• 4-port 32Gb FCP,64G capable, NVMe/FC (X70 and X90 Models)
