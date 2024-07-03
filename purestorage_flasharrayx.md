@@ -42,8 +42,8 @@ Industry Recognition
 
 Accelerate mission-critical applications with power and efficiency
 
-Designed to be as easy to use as it is powerful, Pure Storage® 
-FlashArray™ provides unified block and file storage with 
+Designed to be as easy to use as it is powerful, Pure Storage 
+FlashArray provides unified block and file storage with 
 enterprise performance, reliability, and availability to power your 
 critical business services. FlashArray//X arrays runs everything 
 from massive databases to modern cloud-native apps, with 
